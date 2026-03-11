@@ -1,0 +1,1 @@
+default_app_config = 'appointment_app.apps.AppointmentAppConfig'
