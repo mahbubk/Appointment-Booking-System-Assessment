@@ -73,7 +73,7 @@ appointment_system/ ← project root
 
 ```bash
 git clone https://github.com/mahbubk/Appointment-Booking-System-Assessment.git
-cd appointment_system
+cd Appointment-Booking-System-Assessment/
 ```
 
 ### Step 2 — Create Virtual Environment
