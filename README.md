@@ -72,7 +72,7 @@ appointment_system/ ← project root
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/appointment_system.git
+git clone https://github.com/mahbubk/Appointment-Booking-System-Assessment.git
 cd appointment_system
 ```
 
